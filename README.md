@@ -46,7 +46,6 @@ _Don't want to work with the repo or code editor? Use the [Schema Project in Cod
 
 - [Schema Definition Language - GraphQL Docs](https://graphql.org/learn/schema/)
 - [Schema Definition Language - Apollo Docs](https://www.apollographql.com/docs/apollo-server/schema/schema/)
-- [Graph Manager](https://www.apollographql.com/docs/graph-manager/)
 - [Schema Language Cheat Sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet)
 - [Production Ready GraphQL book](https://productionreadygraphql.com/)
 - [Designing GraphQL Schemas, egghead.io](https://egghead.io/courses/designing-graphql-schemas-99db)
