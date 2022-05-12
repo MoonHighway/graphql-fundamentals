@@ -28,6 +28,7 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 We have a few iterations of this project saved as branches.
 
 - [Starting Slides](https://slides.com/moonhighway/schema-definition-language/)
+- [Starting Schema](https://github.com/MoonHighway/pet-library-schema/)
 - [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
 - [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
 
