@@ -10,27 +10,38 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 ## Instructor Info
 
 - **Eve Porcello**: [Twitter](https://twitter.com/eveporcello) | [Email](mailto:eve@moonhighway.com)
-- **Alex Banks**: [Twitter](https://twitter.com/moontahoe) | [Email](mailto:alex@moonhighway.com)
 - **Moon Highway Training**: [Moon Highway Website](https://www.moonhighway.com) | [Mailing List](http://bit.ly/moonhighway) | [Articles](https://www.moonhighway.com/articles)
 
 ### GraphQL Query Language
 
 - [Query Language Slides](https://slides.com/moonhighway/graphql-intro/)
 - [Studio Explorer](https://studio.apollographql.com/sandbox/explorer)
-- [Pet Library Playground](https://pet-library.moonhighway.com)
-- [Moon Highway Vote Playground](http://vote.moonhighway.com)
-- [Snowtooth Playground](https://snowtooth.moonhighway.com)
+- [Pet Library API](https://pet-library.moonhighway.com)
+- [Moon Highway Vote API](http://vote.moonhighway.com)
+- [Snowtooth API](https://snowtooth.moonhighway.com)
 - [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
+
+## Slides
+
+- [Opening Slides](https://slides.com/moonhighway/schema-definition-language)
+- [Advanced Slides](https://slides.com/moonhighway/apollo-schema-design-advanced)
 
 ## Schema Project
 
 We have a few iterations of this project saved as branches.
 
-- [Starting Slides](https://slides.com/moonhighway/schema-definition-language/)
-- [Starting Schema](https://github.com/MoonHighway/pet-library-schema/)
+- [Starting Repo](https://github.com/MoonHighway/pet-library-schema)
 - [First Schema Iteration](https://github.com/MoonHighway/pet-library-schema/tree/initial-schema)
 - [Complete Schema](https://github.com/MoonHighway/pet-library-schema/tree/complete)
+
+_Don't want to work with the repo or code editor? Use the [Schema Project in CodeSandbox](https://codesandbox.io/s/github/moonhighway/pet-library-schema)_
+
+## Pet Library Info
+
+- Pet Library [GraphQL Playground](https://pet-library.moonhighway.com) | [Repo](https://github.com/MoonHighway/pet-library/tree/initial-version)
+- Funded Pet Library [GraphQL Playground](https://funded-pet-library.moonhighway.com) | [Repo](https://github.com/moonhighway/pet-library)
+
 
 _Don't want to work with the repo or code editor? Use the [Schema Project in CodeSandbox](https://codesandbox.io/s/github/moonhighway/pet-library-schema)_
 
