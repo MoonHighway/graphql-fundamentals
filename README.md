@@ -23,7 +23,7 @@ Welcome! We're really glad you're here! Below you'll find all of the resources t
 
 - [Studio Explorer](https://studio.apollographql.com/sandbox/explorer)
 - [Pet Library API](https://pet-library.moonhighway.com)
-- [Moon Highway Vote API](http://vote.moonhighway.com)
+- [Moon Highway Vote API](http://host-election.fly.dev)
 - [Snowtooth API](https://snowtooth.moonhighway.com)
 - [GitHub GraphQL Explorer](https://developer.github.com/v4/explorer/)
 - [Lab Instructions](https://slides.com/moonhighway/snowtooth-query-lab/)
